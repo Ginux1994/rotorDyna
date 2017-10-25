@@ -1,0 +1,42 @@
+﻿生成启动时间为 2017/10/25 8:30:24。
+     1>项目“E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\rotorDynamics\rotorDynamics.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (rotorDynamics.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(233): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(244): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(245): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(250): warning C4244: “参数”: 从“double”转换到“TNT::Subscript”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(280): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(281): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(282): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(308): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(309): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(310): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(311): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(400): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(409): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(770): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(772): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(780): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\tnt_cmat.h(261): warning C4018: “<”: 有符号/无符号不匹配
+                 e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\tnt_cmat.h(260): 编译类 模板 成员函数“TNT::Matrix<double> &TNT::Matrix<double>::operator =(const std::vector<double,std::allocator<_Ty>> &)”时
+                 with
+                 [
+                     _Ty=double
+                 ]
+                 e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\源.cpp(24): 参见对正在编译的函数 模板 实例化“TNT::Matrix<double> &TNT::Matrix<double>::operator =(const std::vector<double,std::allocator<_Ty>> &)”的引用
+                 with
+                 [
+                     _Ty=double
+                 ]
+                 e:\0workbench\10-20_10-30 cpp转子动力学\rotordynamics-dofconduction\rotordynamics\rotordyn.h(39): 参见对正在编译的类 模板 实例化“TNT::Matrix<double>”的引用
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\Debug\rotorDynamics-DOFConduction.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\Debug\rotorDynamics-DOFConduction.pdb" /STACK:"100000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\Debug\rotorDynamics-DOFConduction.lib" /MACHINE:X86 "Debug\源.obj"
+         rotorDynamics.vcxproj -> E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\Debug\rotorDynamics-DOFConduction.exe
+     1>已完成生成项目“E:\0workbench\10-20_10-30 cpp转子动力学\rotorDynamics-DOFconduction\rotorDynamics\rotorDynamics.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.09

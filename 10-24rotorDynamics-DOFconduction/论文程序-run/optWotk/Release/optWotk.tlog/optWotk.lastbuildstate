@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|Win32|E:\10-13_10-16 利用NSGA II 做多目标优化-实现论文程序\论文程序-run\|

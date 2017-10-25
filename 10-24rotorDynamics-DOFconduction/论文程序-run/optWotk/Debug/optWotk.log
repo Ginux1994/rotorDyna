@@ -1,0 +1,8 @@
+﻿  论文所用函数.cpp
+e:\wokebench_c\4-22\论文程序-run\optwotk\bfgs.h(72): warning C4101: “beta_current”: 未引用的局部变量
+e:\wokebench_c\4-22\论文程序-run\optwotk\论文所用函数.cpp(363): fatal error C1001: 编译器中发生内部错误。
+  (编译器文件“f:\dd\vctools\compiler\cxxfe\sl\p1\cxx\grammar.y”，第 6181 行)
+   要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+  请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
